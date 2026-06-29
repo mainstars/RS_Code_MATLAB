@@ -26,4 +26,4 @@ rs_encode.m：RS 编码函数
 
 rs_decode.m：RS 译码函数
 
-README.md：项目说明文件                                                                                 
+README.md：项目说明文件                                                                                
